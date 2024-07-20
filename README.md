@@ -1,8 +1,47 @@
-# React + Vite
+# Assesment Checkbox
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application demonstrating a checkbox component for selecting pages.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: JavaScript library for building user interfaces
+- **Vite**: Build tool for fast development
+- **Tailwind CSS**: Utility-first CSS framework
+- **ESLint**: Linting tool for identifying and fixing problems in JavaScript code
+
+## Setup
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/AT010303/assesment-checkbox.git
+   cd assesment-checkbox
+   ```
+
+2. **Install Dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Run the Development Server:**
+
+   ```bash
+   npm run dev
+   ```
+
+   Open your browser and go to `http://localhost:5173` to view the application.
+
+4. **Build for Production:**
+
+   ```bash
+   npm run build
+   ```
+
+5. **Preview the Production Build:**
+
+   ```bash
+   npm run preview
+   ```
+
+---
